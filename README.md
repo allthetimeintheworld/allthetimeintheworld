@@ -12,3 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📫 How to Reach Me
+
+- **Email:** [thejamesdyar@gmail](mailto:thejamesdyar@gmail.com)
+- **LinkedIn:** [John Doe](https://www.linkedin.com/in/james-dyar-657688218)
