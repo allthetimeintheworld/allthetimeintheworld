@@ -16,14 +16,15 @@
 - **Hobbies:**  
   🎮 Gaming, 📚 Reading Sci-Fi, 🎵 Playing Guitar
 
-- **Favorite Stack:**  
-  💻 MERN (MongoDB, Express.js, React, Node.js)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Favorite Stacks:**
+  💻 (PostgreSQL, React.js, Flask, Docker)
+  💻 (MySQL, React.js, Rocket, Docker)
+- 🌱 I’m currently learning C and C++ for that difficult journey down the SOC dream
+- 👯 I’m looking to collaborate on Mechtastic Lora32 comms.
+- 🤔 I’m looking for help with MiniShell project...They are a leaking nightmare!! 
+- 💬 Ask me about anything at all!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Tardigrades can live in space but they don't taste of much anything at all.
 -->
 ## 📫 How to Reach Me
 
