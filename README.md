@@ -9,7 +9,7 @@
 
 ## 🎓 42 School Graduate
 
-Recently completed the **42 School Core Curriculum** - a rigorous, peer-to-peer learning program focused on systems programming and software engineering fundamentals.
+Nearly completed the **42 School Core Curriculum** - a rigorous, peer-to-peer learning program focused on systems programming and software engineering fundamentals.
 
 ### 🚀 Core Projects Completed
 - **libft** - Custom C library implementation
@@ -30,12 +30,12 @@ Recently completed the **42 School Core Curriculum** - a rigorous, peer-to-peer 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=allthetimeintheworld&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+### 🟩 GitHub Commit Heatmap
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allthetimeintheworld&theme=github&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allthetimeintheworld&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=allthetimeintheworld&theme=radical&hide_border=true&background=0d1117)
 
 </div>
 
