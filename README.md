@@ -27,18 +27,6 @@ Nearly completed the **42 School Core Curriculum** - a rigorous, peer-to-peer le
 - **ft_containers** - STL container recreation
 - **inception** - Docker containerization
 
-## 📊 GitHub Statistics
-
-<div align="center">
-### 🟩 GitHub Commit Heatmap
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allthetimeintheworld&theme=github&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allthetimeintheworld&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
-
-</div>
-
 ## 🛠️ Technology Stack
 
 ### **Languages**
