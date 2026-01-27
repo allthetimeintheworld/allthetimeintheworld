@@ -1,4 +1,4 @@
-# Hi there, I'm James! 👋
+# Hi there, I'm James! 
 
 <div align="center">
   
@@ -7,11 +7,11 @@
 
 </div>
 
-## 🎓 42 School Graduate
+## 42 School Graduate
 
 Nearly completed the **42 School Core Curriculum** - a rigorous, peer-to-peer learning program focused on systems programming and software engineering fundamentals.
 
-### 🚀 Core Projects Completed
+### Core Projects Completed
 - **libft** - Custom C library implementation
 - **get_next_line** - File reading utility
 - **ft_printf** - Printf function recreation
@@ -27,7 +27,7 @@ Nearly completed the **42 School Core Curriculum** - a rigorous, peer-to-peer le
 - **ft_containers** - STL container recreation
 - **inception** - Docker containerization
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### **Languages**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -46,25 +46,25 @@ Nearly completed the **42 School Core Curriculum** - a rigorous, peer-to-peer le
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🌱 Current Focus
+##  Current Focus
 
-- 🔭 **Currently working on:** Advanced system programming projects and exploring embedded systems
-- 🌱 **Learning:** Deepening my knowledge of C/C++ for system-level programming and SOC development
-- 👯 **Looking to collaborate on:** Meshtastic LoRa32 communication projects
-- 🤔 **Seeking help with:** Advanced memory management patterns and embedded system optimization
+-  **Currently working on:** Advanced system programming projects and exploring embedded systems
+-  **Learning:** Deepening my knowledge of C/C++ for system-level programming and SOC development
+-  **Looking to collaborate on:** Meshtastic LoRa32 communication projects
+-  **Seeking help with:** Advanced memory management patterns and embedded system optimization
 
-## 🌟 Personal Interests
+##  Personal Interests
 
-- 🎮 **Gaming** - Always up for a good strategy or RPG game
-- 📚 **Reading Sci-Fi** - Currently exploring hard science fiction
-- 🎵 **Playing Guitar** - Badly... For so long.
-- 🔬 **Tech Exploration** - IoT, mesh networking, and distributed systems
+-  **Gaming** - Always up for a good strategy or RPG game
+-  **Reading Sci-Fi** - Currently exploring hard science fiction
+-  **Playing Guitar** - Badly... For so long.
+-  **Tech Exploration** - IoT, mesh networking, and distributed systems
 
-## 🏆 42 School Philosophy
+##  42 School Philosophy
 
 *"The pedagogical method is peer-to-peer learning: no teachers, no courses, students learning from their fellow students, fueled by a culture of mutual help."*
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
